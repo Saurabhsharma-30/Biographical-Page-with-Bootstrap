@@ -15,7 +15,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/saurabhsharma-30/biographical-page-bootstrap.git
+git clone https://github.com/Saurabhsharma-30/Biographical-Page-with-Bootstrap/tree/main
 Navigate to the Project Directory:
 
 bash
