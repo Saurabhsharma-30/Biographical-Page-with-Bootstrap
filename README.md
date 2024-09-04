@@ -15,16 +15,17 @@ To view and interact with the biographical page:
 
 Clone the Repository:
 
-bash
+'''bash
 Copy code
 git clone https://github.com/Saurabhsharma-30/Biographical-Page-with-Bootstrap/tree/main
+'''
 Navigate to the Project Directory:
 
-bash
+'''bash
 Copy code
 cd biographical-page-bootstrap
 Open index.html in your preferred code editor.
-
+'''
 Go Live:
 
 Use the 'Go Live' option in your editor (usually at the bottom right) to start a local server.
