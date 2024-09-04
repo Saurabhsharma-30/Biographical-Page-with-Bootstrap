@@ -9,7 +9,8 @@ Responsive Image: The profile picture is configured to be responsive using Boots
 Bootstrap Button: The link to the Meta profile is styled as a Bootstrap button with the primary modifier.
 Content Sections: The page includes sections for biographical information, favorite music artists, and favorite films, all organized using Bootstrap's column classes.
 
-#Instructions
+# Instructions
+
 To view and interact with the biographical page:
 
 Clone the Repository:
