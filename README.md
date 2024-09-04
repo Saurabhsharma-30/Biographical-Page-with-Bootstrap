@@ -1,14 +1,15 @@
 # Biographical-Page-with-Bootstrap
 
 Introduction
-This project is a responsive biographical webpage built using Bootstrap, as part of a graded assessment. The goal was to enhance the webpage by implementing Bootstrap's grid system, making the page layout adaptable to both mobile and desktop devices, and utilizing Bootstrap components for styling.
+This project is a responsive biographical webpage built using Bootstrap. The goal was to enhance the webpage by implementing Bootstrap's grid system, making the page layout adaptable to both mobile and desktop devices, and utilizing Bootstrap components for styling.
 
-Features
+# Features
 Responsive Design: The page uses Bootstrap's grid system to ensure that the content is well-organized and responsive across different screen sizes.
 Responsive Image: The profile picture is configured to be responsive using Bootstrap's img-fluid class.
 Bootstrap Button: The link to the Meta profile is styled as a Bootstrap button with the primary modifier.
 Content Sections: The page includes sections for biographical information, favorite music artists, and favorite films, all organized using Bootstrap's column classes.
-Instructions
+
+#Instructions
 To view and interact with the biographical page:
 
 Clone the Repository:
